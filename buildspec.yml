@@ -20,5 +20,5 @@ phases:
 
 artifacts:
   files:
-    - target\order-service.jar
+    - target\order-service-0.0.1-SNAPSHOT.jar
 
