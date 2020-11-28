@@ -1,10 +1,11 @@
 package com.order.orderservice;
 
-import org.junit.jupiter.api.Test;
+
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class OrderServiceApplicationTests {
+public class OrderServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
