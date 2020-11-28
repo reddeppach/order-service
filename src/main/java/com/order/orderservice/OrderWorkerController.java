@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class OrderWorkerController {
 	
-	@GetMapping(name = "/orders")
+	@GetMapping(path="/orders")
 	public List<String> getOrders(){
 		
 		List<String> list = new ArrayList<>();
